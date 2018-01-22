@@ -1,0 +1,16 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "My CV",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd src && ../node_modules/resume-cli/index.js serve src/resume.json",
+    "build": "cd src && ../node_modules/resume-cli/index.js export ../dist/index.html"
+  },
+  "keywords": [
+    "watchanon",
+    "resume"
+  ],
+  "author": "Watchanon Numnam",
+  "license": "ISC"
+}

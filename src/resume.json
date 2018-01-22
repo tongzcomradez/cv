@@ -1,0 +1,188 @@
+{
+  "basics": {
+    "name": "Watchanon Numnam",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "jiramot@gmail.com",
+    "phone": "(+66) 85-898-9398",
+    "summary": "I am ordinary developer who want to use agile for doing my best Software to my customer, I really happy when my application release to customer and get their feedback from user and I am the one who care about Deploy application in any stage",
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "jiramot",
+        "url": "https://www.linkedin.com/in/jiramot/"
+      },
+      {
+        "network": "Github",
+        "username": "jiramot",
+        "url": "https://github.com/jiramot"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Almond Digital Group Co., Ltd",
+      "position": "Lead Developer",
+      "website": "http://almond.group",
+      "startDate": "2016-09-01",
+      "endDate": "2017-02-01",
+      "summary": "Lending platform that easy for people can apply only one chanel",
+      "highlights": [
+        "Build micro service with Spring Cloud (Netflix OSS)",
+        "AWS infrastructure",
+        "Chatbot engine",
+        "Machine learning for calculate success rate when apply loan application",
+        "Cashnow scoring"
+      ]
+    },
+    {
+      "company": "Fungjai Co., Ltd",
+      "position": "Co-Founder/Senior Developer",
+      "website": "https://fungjai.com",
+      "startDate": "2016-09-01",
+      "endDate": "2017-02-01",
+      "summary": "Fungjai is music streaming platform, I am responsible for create infrastucture, create CI/CD from scrash, core api service for mobile and website",
+      "highlights": [
+        "Build all infrastucture from code (Infrastucture as Code) with Ansible, Docker, Vagrant, VMWare ESXi",
+        "All backend service with micro service",
+        "Build immortal jenkins CI/CD with all jobs configutation on git server",
+        "Create own on-premise infrastucture at CAT IDC",
+        "nodejs",
+        "mongo",
+        "redis",
+        "docker"
+      ]
+    },
+    {
+      "company": "Siam Commercial Bank",
+      "position": "Senoir Mobile Developer",
+      "startDate": "2014-01-01",
+      "endDate": "2015-03-30",
+      "summary": "Digital Banking ",
+      "highlights": [
+        "Backend service from Spring boot",
+        "Jenkins CI/CD",
+        "Infrastucture as Code with Vagrant and Ansible",
+        "Agile"
+      ]
+    },
+    {
+      "company": "Thai Samsung Electronic",
+      "position": "Solution Engineer",
+      "startDate": "2012-08-01",
+      "endDate": "2014-01-01",
+      "highlights": [
+        "Make simple app on every Samsung business vertical, make more benefit when customer want to buy Samsung android product",
+        "Android instructor for teach samsung solution custome who want to write Android application",
+        "Consult customer to help them make application on Samsung android product",
+        "Samsung SDK",
+        "Samsung KNOX",
+        "Samsung solution"
+      ]
+    },
+    {
+      "company": "Kelson Idea",
+      "position": "Mobile Application Developer",
+      "startDate": "2011-08-01",
+      "endDate": "2012-07-30",
+      "highlights": [
+        "ShimdeeThe: dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market. Using Android SDK and Eclipse IDE.",
+        ""
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Thai Flood",
+      "position": "Mobile Application Developer",
+      "summary": "Thai Floods is application for reseive push notification flood news, donate button and show all information about how to find car park",
+      "highlights": [
+        "First Thai application that use push notification and Google grand more quata for push notification"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Chulalongkorn University",
+      "area": "Business Software Developer",
+      "studyType": "Master",
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "3.0"
+    },
+    {
+      "institution": "Prince of Songkla University",
+      "area": "Computer Engineering (Computer Network)",
+      "studyType": "Bachelor",
+      "startDate": "2004",
+      "endDate": "2007",
+      "gpa": "3.03"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Backend service",
+      "keywords": [
+        "java",
+        "javascript",
+        "nodejs"
+      ]
+    },
+    {
+      "name": "Database",
+      "keywords": [
+        "mysql",
+        "mongo",
+        "redis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Thai",
+      "fluency": "Native speaker"
+    },{
+      "language": "English"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Compure Sci",
+      "keywords": [
+        "AI",
+        "Machine Learning",
+        "Infrastucture",
+        "Micro Service"
+      ]
+    },{
+      "name": "Financial",
+      "keywords": [
+        "Banking",
+        "Future Bank"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ]
+}
