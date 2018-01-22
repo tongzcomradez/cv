@@ -24,8 +24,8 @@
       "company": "Almond Digital Group Co., Ltd",
       "position": "Lead Developer",
       "website": "http://almond.group",
-      "startDate": "Sep 2017",
-      "endDate": "Present",
+      "startDate": "2017-09-01",
+      "endDate": "2018-02-01",
       "summary": "Lending platform that easy for people can apply only one chanel",
       "highlights": [
         "Build micro service with Spring Cloud (Netflix OSS)",
@@ -39,8 +39,8 @@
       "company": "Fungjai Co., Ltd",
       "position": "Co-Founder/Senior Developer",
       "website": "https://fungjai.com",
-      "startDate": "Apr 2016",
-      "endDate": "Present",
+      "startDate": "2016-04-01",
+      "endDate": "2018-02-01",
       "summary": "Fungjai is music streaming platform, I am responsible for create infrastucture, create CI/CD from scrash, core api service for mobile and website",
       "highlights": [
         "Build all infrastucture from code (Infrastucture as Code) with Ansible, Docker, Vagrant, VMWare ESXi",
@@ -56,8 +56,8 @@
     {
       "company": "Siam Commercial Bank",
       "position": "Senoir Mobile Developer",
-      "startDate": "Jan 2015",
-      "endDate": "Mar 2016",
+      "startDate": "2015-01-01",
+      "endDate": "2016-03-31",
       "summary": "Digital Banking ",
       "highlights": [
         "Backend service from Spring boot",
@@ -69,8 +69,8 @@
     {
       "company": "Thai Samsung Electronic",
       "position": "Solution Engineer",
-      "startDate": "Aug 2012",
-      "endDate": "Dec 2014",
+      "startDate": "2012-08-01",
+      "endDate": "2014-12-31",
       "highlights": [
         "Make simple app on every Samsung business vertical, make more benefit when customer want to buy Samsung android product",
         "Android instructor for teach samsung solution custome who want to write Android application",
@@ -83,15 +83,15 @@
     {
       "company": "Kelson Idea",
       "position": "Mobile Application Developer",
-      "startDate": "Apr 2011",
-      "endDate": "Aug 2012",
+      "startDate": "2011-04-01",
+      "endDate": "2012-07-30",
       "summary": "Android/iOS Application Developer",
       "highlights": [
-        "Shimdee: The dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market. Using Android SDK and Eclipse IDE.",
-        "Smart Meny:  Find dish and restaurant by location service. https://play.google.com/store/apps/details?id=com.kelson.smartmeny&amp;feature=search_result",
-        "RingTaxi Norge: For call taxi in Norway. Customer can call taxi by send current location to call center at same time when talk with taxi call center. https://market.android.com/details?id=com.eksperthjelp.ringtaxi&amp;feature=search_result",
-        "ABCannonse: For manage sale product on web shopping http://www.abcannonse.no https://market.android.com/details?id=abcannonse.android&amp;feature=search_result",
-        "RelaxU2: Listen a relax sound. https://market.android.com/details?id=com.relaxu2.android&amp;feature=search_result",
+        "Shimdee: The dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market.",
+        "Smart Meny:  Find dish and restaurant by location service. https://play.google.com/store/apps/details?id=com.kelson.smartmeny",
+        "RingTaxi Norge: For call taxi in Norway. Customer can call taxi by send current location to call center at same time when talk with taxi call center. https://market.android.com/details?id=com.eksperthjelp.ringtaxi",
+        "ABCannonse: For manage sale product on web shopping http://www.abcannonse.no https://market.android.com/details?id=abcannonse.android",
+        "RelaxU2: Listen a relax sound. https://market.android.com/details?id=com.relaxu2.android",
         "Skuup: Selling an offer on mobile phone. (like Groupon, Ensogo)",
         "Expert Help The mobile website for view an advisor in specific area that customer want to call what them. http://www.eksperthjelp.no Using Play Framework and jQuery",
         "Kanokwan To present the company, that show information, product Not available on AppStore (Internal use only)"
@@ -100,8 +100,8 @@
     {
       "company": "Orc Soft",
       "position": "Java Software Developer",
-      "startDate": "Nov 2009",
-      "endDate": "May 2010",
+      "startDate": "2009-11-01",
+      "endDate": "2010-05-31",
       "summary": "ICAS Project: The Imaged Cheque Clearing and Archive System (ICAS) project is a new cheque clearing system for Bank Of Thailand.",
       "highlights": [
         "Customize cheque clearing outward flow for Krungthai Bank by using Store Procedure in MS SQL Server",
@@ -111,8 +111,8 @@
     {
       "company": "Throughwave",
       "position": "Java Software Developer",
-      "startDate": "May 2008",
-      "endDate": "Jul 2009",
+      "startDate": "2008-05-01",
+      "endDate": "2009-07-31",
       "summary": "Implement and debug Calendar Service in Mail System (like a Google Apps) by using adobe flex in clientand java servlet in server, use Granite Data Service to exchange data between java servlet and flex"
     }
   ],
@@ -139,16 +139,16 @@
       "institution": "Chulalongkorn University",
       "area": "Business Software Developer",
       "studyType": "Master",
-      "startDate": "2010",
-      "endDate": "2014",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
       "gpa": "3.0"
     },
     {
       "institution": "Prince of Songkla University",
       "area": "Computer Engineering (Computer Network)",
       "studyType": "Bachelor",
-      "startDate": "2004",
-      "endDate": "2007",
+      "startDate": "2004-01-01",
+      "endDate": "2007-01-01",
       "gpa": "3.03"
     }
   ],

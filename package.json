@@ -2,10 +2,11 @@
   "name": "cv",
   "version": "1.0.0",
   "description": "My CV",
-  "main": "index.js",
   "scripts": {
-    "start": "cd src && ../node_modules/resume-cli/index.js serve src/resume.json --theme classy",
-    "build": "cd src && ../node_modules/resume-cli/index.js export ../dist/index.html"
+    "start": "cd src && resume serve src/resume.json --theme classy",
+    "build": "cd src && resume export ../dist/index.html",
+    "build:pdf": "cd src && resume export ../dist/cv.pdf --theme classy",
+    "preinstall": "npm install -g resume-cli"
   },
   "keywords": [
     "watchanon",
