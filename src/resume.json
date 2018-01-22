@@ -24,8 +24,8 @@
       "company": "Almond Digital Group Co., Ltd",
       "position": "Lead Developer",
       "website": "http://almond.group",
-      "startDate": "2016-09-01",
-      "endDate": "2017-02-01",
+      "startDate": "Sep 2017",
+      "endDate": "Present",
       "summary": "Lending platform that easy for people can apply only one chanel",
       "highlights": [
         "Build micro service with Spring Cloud (Netflix OSS)",
@@ -39,8 +39,8 @@
       "company": "Fungjai Co., Ltd",
       "position": "Co-Founder/Senior Developer",
       "website": "https://fungjai.com",
-      "startDate": "2016-09-01",
-      "endDate": "2017-02-01",
+      "startDate": "Apr 2016",
+      "endDate": "Present",
       "summary": "Fungjai is music streaming platform, I am responsible for create infrastucture, create CI/CD from scrash, core api service for mobile and website",
       "highlights": [
         "Build all infrastucture from code (Infrastucture as Code) with Ansible, Docker, Vagrant, VMWare ESXi",
@@ -56,8 +56,8 @@
     {
       "company": "Siam Commercial Bank",
       "position": "Senoir Mobile Developer",
-      "startDate": "2014-01-01",
-      "endDate": "2015-03-30",
+      "startDate": "Jan 2015",
+      "endDate": "Mar 2016",
       "summary": "Digital Banking ",
       "highlights": [
         "Backend service from Spring boot",
@@ -69,8 +69,8 @@
     {
       "company": "Thai Samsung Electronic",
       "position": "Solution Engineer",
-      "startDate": "2012-08-01",
-      "endDate": "2014-01-01",
+      "startDate": "Aug 2012",
+      "endDate": "Dec 2014",
       "highlights": [
         "Make simple app on every Samsung business vertical, make more benefit when customer want to buy Samsung android product",
         "Android instructor for teach samsung solution custome who want to write Android application",
@@ -83,12 +83,37 @@
     {
       "company": "Kelson Idea",
       "position": "Mobile Application Developer",
-      "startDate": "2011-08-01",
-      "endDate": "2012-07-30",
+      "startDate": "Apr 2011",
+      "endDate": "Aug 2012",
+      "summary": "Android/iOS Application Developer",
       "highlights": [
-        "ShimdeeThe: dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market. Using Android SDK and Eclipse IDE.",
-        ""
+        "Shimdee: The dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market. Using Android SDK and Eclipse IDE.",
+        "Smart Meny:  Find dish and restaurant by location service. https://play.google.com/store/apps/details?id=com.kelson.smartmeny&amp;feature=search_result",
+        "RingTaxi Norge: For call taxi in Norway. Customer can call taxi by send current location to call center at same time when talk with taxi call center. https://market.android.com/details?id=com.eksperthjelp.ringtaxi&amp;feature=search_result",
+        "ABCannonse: For manage sale product on web shopping http://www.abcannonse.no https://market.android.com/details?id=abcannonse.android&amp;feature=search_result",
+        "RelaxU2: Listen a relax sound. https://market.android.com/details?id=com.relaxu2.android&amp;feature=search_result",
+        "Skuup: Selling an offer on mobile phone. (like Groupon, Ensogo)",
+        "Expert Help The mobile website for view an advisor in specific area that customer want to call what them. http://www.eksperthjelp.no Using Play Framework and jQuery",
+        "Kanokwan To present the company, that show information, product Not available on AppStore (Internal use only)"
       ]
+    },
+    {
+      "company": "Orc Soft",
+      "position": "Java Software Developer",
+      "startDate": "Nov 2009",
+      "endDate": "May 2010",
+      "summary": "ICAS Project: The Imaged Cheque Clearing and Archive System (ICAS) project is a new cheque clearing system for Bank Of Thailand.",
+      "highlights": [
+        "Customize cheque clearing outward flow for Krungthai Bank by using Store Procedure in MS SQL Server",
+        "Develop New Module for ICAS-Flex with using Adobe Flex Client side, J2EE Server side and BlazeDS for DataService between Flex and J2EE"
+      ]
+    },
+    {
+      "company": "Throughwave",
+      "position": "Java Software Developer",
+      "startDate": "May 2008",
+      "endDate": "Jul 2009",
+      "summary": "Implement and debug Calendar Service in Mail System (like a Google Apps) by using adobe flex in clientand java servlet in server, use Granite Data Service to exchange data between java servlet and flex"
     }
   ],
   "volunteer": [
@@ -99,7 +124,15 @@
       "highlights": [
         "First Thai application that use push notification and Google grand more quata for push notification"
       ]
+    }, {
+      "organization": "Freelance",
+      "position": "Mobile Application Developer",
+      "summary": "Foursquare-Android SDK",
+      "highlights": [
+        "World first Foursquare Android SDK for make authenticate with oauth2 api https://github.com/jiramot/foursquare-android-sdk"
+      ]
     }
+
   ],
   "education": [
     {
@@ -117,23 +150,6 @@
       "startDate": "2004",
       "endDate": "2007",
       "gpa": "3.03"
-    }
-  ],
-  "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
-  ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
     }
   ],
   "skills": [
@@ -177,12 +193,6 @@
         "Banking",
         "Future Bank"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
     }
   ]
 }
