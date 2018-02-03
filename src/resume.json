@@ -5,7 +5,7 @@
     "picture": "",
     "email": "jiramot@gmail.com",
     "phone": "(+66) 85-898-9398",
-    "summary": "I am ordinary developer who want to use agile for doing my best Software to my customer, I really happy when my application release to customer and get their feedback from user and I am the one who care about Deploy application in any stage",
+    "summary": "I am an ordinary developer who wants to practice agile to deliver the best product to customers. I am really happy when my application is released and I get feedback. I believe in continuous delivery and am always ready to deploy.",
     "profiles": [
       {
         "network": "Linkedin",
@@ -26,7 +26,7 @@
       "website": "http://almond.group",
       "startDate": "2017-09-01",
       "endDate": "2018-02-01",
-      "summary": "Lending platform that easy for people can apply only one chanel",
+      "summary": "Cashnow is a digital lending platform that allows users to apply instantly via just one channel.",
       "highlights": [
         "Build micro service with Spring Cloud (Netflix OSS)",
         "AWS infrastructure",
@@ -41,7 +41,7 @@
       "website": "https://fungjai.com",
       "startDate": "2016-04-01",
       "endDate": "2018-02-01",
-      "summary": "Fungjai is music streaming platform, I am responsible for create infrastucture, create CI/CD from scrash, core api service for mobile and website",
+      "summary": "Fungjai is an indie music commutiny we have streaming platform available on web, android and iOS., Online magazine, and",
       "highlights": [
         "Build all infrastucture from code (Infrastucture as Code) with Ansible, Docker, Vagrant, VMWare ESXi",
         "All backend service with micro service",
@@ -58,7 +58,7 @@
       "position": "Senoir Mobile Developer",
       "startDate": "2015-01-01",
       "endDate": "2016-03-31",
-      "summary": "Digital Banking ",
+      "summary": "Part of agile 10x Digital Banking team.",
       "highlights": [
         "Backend service from Spring boot",
         "Jenkins CI/CD",
@@ -74,10 +74,10 @@
       "highlights": [
         "Make simple app on every Samsung business vertical, make more benefit when customer want to buy Samsung android product",
         "Android instructor for teach samsung solution custome who want to write Android application",
-        "Consult customer to help them make application on Samsung android product",
+        "Consult customer to help them make application on Samsung android device",
         "Samsung SDK",
         "Samsung KNOX",
-        "Samsung solution"
+        "Samsung Solution"
       ]
     },
     {
@@ -85,7 +85,7 @@
       "position": "Mobile Application Developer",
       "startDate": "2011-04-01",
       "endDate": "2012-07-30",
-      "summary": "Android/iOS Application Developer",
+      "summary": "Software development team responsible for end to end delivery",
       "highlights": [
         "Shimdee: The dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market.",
         "Smart Meny:  Find dish and restaurant by location service. https://play.google.com/store/apps/details?id=com.kelson.smartmeny",
@@ -175,7 +175,8 @@
       "language": "Thai",
       "fluency": "Native speaker"
     },{
-      "language": "English"
+      "language": "English",
+      "fluency": "Intermediate"
     }
   ],
   "interests": [
