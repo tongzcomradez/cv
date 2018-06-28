@@ -9,9 +9,12 @@
     "preinstall": "npm install -g resume-cli"
   },
   "keywords": [
-    "watchanon",
+    "surat",
     "resume"
   ],
-  "author": "Watchanon Numnam",
-  "license": "ISC"
+  "author": "surat rotbamrung",
+  "license": "ISC",
+  "dependencies": {
+    "resume-cli": "^0.4.19"
+  }
 }

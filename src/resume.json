@@ -1,49 +1,59 @@
 {
   "basics": {
-    "name": "Watchanon Numnam",
+    "name": "Surat Rotbamrung",
     "label": "Software Developer",
-    "picture": "",
-    "email": "jiramot@gmail.com",
-    "phone": "(+66) 85-898-9398",
-    "summary": "I am an ordinary developer who wants to practice agile to deliver the best product to customers. I am really happy when my application is released and I get feedback. I believe in continuous delivery and am always ready to deploy.",
+    "email": "s.rotbamrung@gmail.com",
+    "phone": "(+66) 87-010-9883",
+    "facebook": "",
+    "contact": "dasdsa",
+    "summary": "I am a Software Developer",
     "profiles": [
       {
-        "network": "Linkedin",
-        "username": "jiramot",
-        "url": "https://www.linkedin.com/in/jiramot/"
+        "network": "Facebook",
+        "username": "su2at",
+        "url": "https://www.facebook.com/su2at"
       },
       {
         "network": "Github",
-        "username": "jiramot",
-        "url": "https://github.com/jiramot"
+        "username": "tongzcomradez",
+        "url": "https://github.com/tongzcomradez"
+      },
+      {
+        "network": "Medium",
+        "username": "@jonathandcomrade",
+        "url": "https://medium.com/@jonathandcomrade"
       }
     ]
   },
   "work": [
     {
-      "company": "Almond Digital Group Co., Ltd",
-      "position": "Lead Developer",
-      "website": "http://almond.group",
-      "startDate": "2017-09-01",
-      "endDate": "2018-02-01",
-      "summary": "Cashnow is a digital lending platform that allows users to apply instantly via just one channel.",
+      "company": "Fungjai Co., Ltd",
+      "position": "Backend Developer",
+      "website": "https://songshakes.com",
+      "startDate": "2017-07-01",
+      "endDate": "Present",
+      "summary": "SongShakes is a music cover commutiny we have streaming platform available on web, android and iOS., Online magazine, and",
       "highlights": [
-        "Build micro service with Spring Cloud (Netflix OSS)",
-        "AWS infrastructure",
-        "Chatbot engine",
-        "Machine learning for calculate success rate when apply loan application",
-        "Cashnow scoring"
+        "Build and Optimize all infrastucture from code (Infrastucture as Code) with Docker, Nginx, Aws and Kong",
+        "All backend service with micro service",
+        "Build immortal jenkins CI/CD with all jobs configutation on git server",
+        "Create own on-premise infrastucture at CAT IDC",
+        "nodejs",
+        "mongo",
+        "redis",
+        "docker",
+        "reactJs"
       ]
     },
     {
       "company": "Fungjai Co., Ltd",
-      "position": "Co-Founder/Senior Developer",
+      "position": "Backend Developer",
       "website": "https://fungjai.com",
-      "startDate": "2016-04-01",
-      "endDate": "2018-02-01",
+      "startDate": "2017-07-01",
+      "endDate": "Present",
       "summary": "Fungjai is an indie music commutiny we have streaming platform available on web, android and iOS., Online magazine, and",
       "highlights": [
-        "Build all infrastucture from code (Infrastucture as Code) with Ansible, Docker, Vagrant, VMWare ESXi",
+        "Optimize all infrastucture from code (Infrastucture as Code) with Docker, Nginx and Kong",
         "All backend service with micro service",
         "Build immortal jenkins CI/CD with all jobs configutation on git server",
         "Create own on-premise infrastucture at CAT IDC",
@@ -54,119 +64,78 @@
       ]
     },
     {
-      "company": "Siam Commercial Bank",
-      "position": "Senoir Mobile Developer",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-31",
-      "summary": "Part of agile 10x Digital Banking team.",
+      "company": "PirSquare Co., Ltd",
+      "position": "Backend Developer",
+      "website": "https://www.pirsquare.net",
+      "startDate": "2016-06-01",
+      "endDate": "2017-07-31",
+      "summary": "Pi R SQUARE is a Creative Software House. Our strength is to product software with creativity. We know that in this era User Experience is the key and our service in Mobile App, Website and Mobile Game must be right for the target.", 
       "highlights": [
-        "Backend service from Spring boot",
-        "Jenkins CI/CD",
-        "Infrastucture as Code with Vagrant and Ansible",
-        "Agile"
+        "All backend service with micro service",
+        "nodejs",
+        "php",
+        "mongo",
+        "mysql"
       ]
     },
     {
-      "company": "Thai Samsung Electronic",
-      "position": "Solution Engineer",
-      "startDate": "2012-08-01",
-      "endDate": "2014-12-31",
+      "company": "Satisbuy Co., Ltd",
+      "position": "Web Developer",
+      "startDate": "2015-05-01",
+      "endDate": "2016-06-30",
+      "summary": "", 
       "highlights": [
-        "Make simple app on every Samsung business vertical, make more benefit when customer want to buy Samsung android product",
-        "Android instructor for teach samsung solution custome who want to write Android application",
-        "Consult customer to help them make application on Samsung android device",
-        "Samsung SDK",
-        "Samsung KNOX",
-        "Samsung Solution"
-      ]
-    },
-    {
-      "company": "Kelson Idea",
-      "position": "Mobile Application Developer",
-      "startDate": "2011-04-01",
-      "endDate": "2012-07-30",
-      "summary": "Software development team responsible for end to end delivery",
-      "highlights": [
-        "Shimdee: The dish and restaurant social network. You can see what other people eat and what’s the most popular dish or restaurant, to help and suggest you what’s a dish did you want. Available on Android Market.",
-        "Smart Meny:  Find dish and restaurant by location service. https://play.google.com/store/apps/details?id=com.kelson.smartmeny",
-        "RingTaxi Norge: For call taxi in Norway. Customer can call taxi by send current location to call center at same time when talk with taxi call center. https://market.android.com/details?id=com.eksperthjelp.ringtaxi",
-        "ABCannonse: For manage sale product on web shopping http://www.abcannonse.no https://market.android.com/details?id=abcannonse.android",
-        "RelaxU2: Listen a relax sound. https://market.android.com/details?id=com.relaxu2.android",
-        "Skuup: Selling an offer on mobile phone. (like Groupon, Ensogo)",
-        "Expert Help The mobile website for view an advisor in specific area that customer want to call what them. http://www.eksperthjelp.no Using Play Framework and jQuery",
-        "Kanokwan To present the company, that show information, product Not available on AppStore (Internal use only)"
-      ]
-    },
-    {
-      "company": "Orc Soft",
-      "position": "Java Software Developer",
-      "startDate": "2009-11-01",
-      "endDate": "2010-05-31",
-      "summary": "ICAS Project: The Imaged Cheque Clearing and Archive System (ICAS) project is a new cheque clearing system for Bank Of Thailand.",
-      "highlights": [
-        "Customize cheque clearing outward flow for Krungthai Bank by using Store Procedure in MS SQL Server",
-        "Develop New Module for ICAS-Flex with using Adobe Flex Client side, J2EE Server side and BlazeDS for DataService between Flex and J2EE"
-      ]
-    },
-    {
-      "company": "Throughwave",
-      "position": "Java Software Developer",
-      "startDate": "2008-05-01",
-      "endDate": "2009-07-31",
-      "summary": "Implement and debug Calendar Service in Mail System (like a Google Apps) by using adobe flex in clientand java servlet in server, use Granite Data Service to exchange data between java servlet and flex"
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Thai Flood",
-      "position": "Mobile Application Developer",
-      "summary": "Thai Floods is application for reseive push notification flood news, donate button and show all information about how to find car park",
-      "highlights": [
-        "First Thai application that use push notification and Google grand more quata for push notification"
-      ]
-    }, {
-      "organization": "Freelance",
-      "position": "Mobile Application Developer",
-      "summary": "Foursquare-Android SDK",
-      "highlights": [
-        "World first Foursquare Android SDK for make authenticate with oauth2 api https://github.com/jiramot/foursquare-android-sdk"
+        "All backend service with micro service",
+        "php",
+        "mysql"
       ]
     }
-
   ],
   "education": [
     {
-      "institution": "Chulalongkorn University",
-      "area": "Business Software Developer",
-      "studyType": "Master",
-      "startDate": "2010-01-01",
-      "endDate": "2014-01-01",
-      "gpa": "3.0"
-    },
-    {
-      "institution": "Prince of Songkla University",
-      "area": "Computer Engineering (Computer Network)",
+      "institution": "Bansomdejchaopraya Rajabhat University",
+      "area": "Infomation Technology (Software)",
       "studyType": "Bachelor",
-      "startDate": "2004-01-01",
-      "endDate": "2007-01-01",
-      "gpa": "3.03"
+      "startDate": "2011-01-01",
+      "endDate": "2015-01-01",
+      "gpa": "2.97"
     }
   ],
   "skills": [
     {
-      "name": "Backend service",
+      "name": "Backend",
       "keywords": [
-        "java",
+        "php",
         "javascript",
         "nodejs"
       ]
     },
     {
-      "name": "Database",
+      "name": "Frontend",
+      "keywords": [
+        "react",
+        "vue"
+      ]
+    },
+    {
+      "name": "Databases",
       "keywords": [
         "mysql",
         "mongo",
-        "redis"
+        "redis",
+        "firebase cloud store",
+        "firebase realtime database"
+      ]
+    },
+    {
+      "name": "Etc",
+      "keywords": [
+        "git",
+        "linux",
+        "aws",
+        "jenkins",
+        "ci/cd",
+        "cloud function"
       ]
     }
   ],
@@ -176,23 +145,20 @@
       "fluency": "Native speaker"
     },{
       "language": "English",
-      "fluency": "Intermediate"
+      "fluency": "Fair"
     }
   ],
   "interests": [
     {
       "name": "Compure Sci",
       "keywords": [
-        "AI",
-        "Machine Learning",
-        "Infrastucture",
         "Micro Service"
       ]
     },{
-      "name": "Financial",
+      "name": "Social API",
       "keywords": [
-        "Banking",
-        "Future Bank"
+        "Facebook",
+        "Line"
       ]
     }
   ]
